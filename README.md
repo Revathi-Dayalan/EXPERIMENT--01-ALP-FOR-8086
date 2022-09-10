@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : Ragul Vk
-Register Number : 212221240043
+Name : Revathi D
+Register Number : 212221240045
 Date of experiment : 09/09/2022
 ~~~
 ## Aim: 
